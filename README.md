@@ -1,0 +1,3 @@
+<p><strong>SLYLILY Mobile Apps:</strong></p>
+<p>This repository is a collection of desktop/mobile games which are presently open-sourced by the SLYLILY. They are all built using the LibGDX game framework, with the Eclipse IDE gradle project. Every assets and code present in here are all free for personal/commercial use.</p>
+<p>Each mobile app may have a different requirement. For example, some games might need an older version of LibGDX to work, as it may contain old code. To browse the requirements of the app, just click on its folder above and its specific requirements will be shown on its readme.</p>
