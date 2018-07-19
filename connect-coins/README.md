@@ -1,4 +1,7 @@
-<p><strong>Connect Coins Requirements:</strong></p>
+<p><strong>Description:</strong></p>
+<p>Connect Coins is the No. 1 coin connecting game ever! Connect coins is the best game to test yourself how good you are in connecting coins. The game itself is very simple yet challenging once you get yourself attached to it. There are many features in this game. Rules are plain and simple. All you have to do is connect the coins. Play along with multiple game modes such as normal and challenge modes. Obtain the highest score by purchasing game boosters. Play a normal game, connect some coins to form combos, then try to beat your own high score. You can even post your score to compare with other players. Beat the challenge mode to earn rewards. Unlock achievements to earn higher rewards. Use your earned CCs to unlock game textures. Challenge players across the globe, increase your rank, and strive to be the best player in the world. There are more than this once you had played the game.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Requirements:</strong></p>
 <p>You need to have the old version of libgdx to build these. Using older/later versions might produce code errors:</p>
 <ul>
 <li>LibGDX 1.9.8 (You can download it here: https://github.com/libgdx/libgdx/releases?after=1.9.8)</li>
