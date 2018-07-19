@@ -1,0 +1,241 @@
+
+starCoin.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+0
+  rotate: false
+  xy: 2, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 2, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 259
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 260, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 260, 259
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 518, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 260, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 518, 259
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 518, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+
+starCoin2.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+10
+  rotate: false
+  xy: 2, 259
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 260, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 260, 259
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 518, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 260, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 518, 259
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 518, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+
+starCoin3.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+18
+  rotate: false
+  xy: 2, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 2, 259
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 260, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 2, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 260, 259
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 518, 516
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 260, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 518, 259
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 518, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+
+starCoin4.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+27
+  rotate: false
+  xy: 2, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 260, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 518, 2
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1

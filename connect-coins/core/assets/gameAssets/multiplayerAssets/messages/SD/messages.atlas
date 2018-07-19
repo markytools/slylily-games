@@ -1,0 +1,111 @@
+
+messages.png
+size: 2048,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+acceptFriend1
+  rotate: false
+  xy: 1090, 71
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+acceptFriend2
+  rotate: false
+  xy: 1090, 42
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+clearAllNotifB1
+  rotate: false
+  xy: 1090, 100
+  size: 243, 19
+  orig: 243, 19
+  offset: 0, 0
+  index: -1
+clearAllNotifB2
+  rotate: false
+  xy: 274, 7
+  size: 243, 19
+  orig: 243, 19
+  offset: 0, 0
+  index: -1
+clearNotifsLayout
+  rotate: false
+  xy: 2, 2
+  size: 270, 24
+  orig: 270, 24
+  offset: 0, 0
+  index: -1
+exit1
+  rotate: false
+  xy: 1147, 71
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+exit2
+  rotate: false
+  xy: 1147, 42
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+notificationLayoutStyleA1
+  rotate: false
+  xy: 2, 28
+  size: 270, 91
+  orig: 270, 91
+  offset: 0, 0
+  index: -1
+notificationLayoutStyleA2
+  rotate: false
+  xy: 274, 28
+  size: 270, 91
+  orig: 270, 91
+  offset: 0, 0
+  index: -1
+notificationLayoutStyleB1
+  rotate: false
+  xy: 546, 28
+  size: 270, 91
+  orig: 270, 91
+  offset: 0, 0
+  index: -1
+notificationLayoutStyleB2
+  rotate: false
+  xy: 818, 28
+  size: 270, 91
+  orig: 270, 91
+  offset: 0, 0
+  index: -1
+ok1
+  rotate: false
+  xy: 1204, 71
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+ok2
+  rotate: false
+  xy: 1204, 42
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+reply1
+  rotate: false
+  xy: 1261, 71
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+reply2
+  rotate: false
+  xy: 1261, 42
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1

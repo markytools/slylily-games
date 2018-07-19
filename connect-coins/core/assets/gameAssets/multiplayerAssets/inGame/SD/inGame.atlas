@@ -1,0 +1,248 @@
+
+inGame.png
+size: 2048,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+5roundsTracker
+  rotate: false
+  xy: 2, 29
+  size: 360, 480
+  orig: 360, 480
+  offset: 0, 0
+  index: -1
+7roundsTracker
+  rotate: false
+  xy: 364, 29
+  size: 360, 480
+  orig: 360, 480
+  offset: 0, 0
+  index: -1
+drawMatch
+  rotate: false
+  xy: 1088, 478
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+mainCoin
+  rotate: false
+  xy: 1088, 397
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+rematchScoreboardTitle
+  rotate: false
+  xy: 2, 2
+  size: 270, 25
+  orig: 270, 25
+  offset: 0, 0
+  index: -1
+winMatch
+  rotate: false
+  xy: 1088, 445
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+winnerBG
+  rotate: false
+  xy: 726, 29
+  size: 360, 480
+  orig: 360, 480
+  offset: 0, 0
+  index: -1
+
+inGame2.png
+size: 32,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+miniOnFire/0
+  rotate: false
+  xy: 2, 289
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+miniOnFire/1
+  rotate: false
+  xy: 2, 248
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+miniOnFire/2
+  rotate: false
+  xy: 2, 207
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+miniOnFire/3
+  rotate: false
+  xy: 2, 166
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+miniOnFire/4
+  rotate: false
+  xy: 2, 125
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+miniOnFire/5
+  rotate: false
+  xy: 2, 84
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+miniOnFire/6
+  rotate: false
+  xy: 2, 43
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+miniOnFire/7
+  rotate: false
+  xy: 2, 2
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+
+inGame3.png
+size: 2048,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+winCoins/0
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/1
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/2
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/3
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/4
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/5
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/6
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/7
+  rotate: false
+  xy: 1416, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/8
+  rotate: false
+  xy: 1618, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/9
+  rotate: false
+  xy: 1820, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+inGame4.png
+size: 2048,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+winCoins/anim/0
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/anim/1
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/anim/2
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/anim/3
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/anim/4
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/anim/5
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+winCoins/anim/6
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+lights.png
+size: 512,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+bottom1
+  rotate: false
+  xy: 2, 878
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+bottom2
+  rotate: false
+  xy: 2, 732
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+bottomLeft1
+  rotate: false
+  xy: 148, 878
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+bottomLeft2
+  rotate: false
+  xy: 2, 586
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+bottomRight1
+  rotate: false
+  xy: 148, 732
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+bottomRight2
+  rotate: false
+  xy: 294, 878
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+left1
+  rotate: false
+  xy: 2, 440
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+left2
+  rotate: false
+  xy: 148, 586
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+right1
+  rotate: false
+  xy: 294, 732
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+right2
+  rotate: false
+  xy: 2, 294
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+slotLight1
+  rotate: false
+  xy: 148, 440
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+slotLight2
+  rotate: false
+  xy: 294, 586
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+top1
+  rotate: false
+  xy: 2, 148
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+top2
+  rotate: false
+  xy: 2, 2
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+topLeft1
+  rotate: false
+  xy: 148, 294
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+topLeft2
+  rotate: false
+  xy: 294, 440
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+topRight1
+  rotate: false
+  xy: 148, 148
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+topRight2
+  rotate: false
+  xy: 148, 2
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1

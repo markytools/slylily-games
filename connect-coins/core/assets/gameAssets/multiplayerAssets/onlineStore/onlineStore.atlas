@@ -1,0 +1,83 @@
+
+onlineStore.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+120GameXp
+  rotate: false
+  xy: 1084, 1531
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+1dayXp
+  rotate: false
+  xy: 1253, 1707
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+200CCWinBonus
+  rotate: false
+  xy: 1415, 1869
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+50GameXp
+  rotate: false
+  xy: 1084, 1399
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+changeNameB1
+  rotate: false
+  xy: 1084, 1832
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+changeNameB2
+  rotate: false
+  xy: 1084, 1663
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+changeNameB3
+  rotate: false
+  xy: 1253, 1839
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+nameChange
+  rotate: false
+  xy: 1547, 1869
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+onlineStoreScreen
+  rotate: false
+  xy: 2, 79
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+welcomeTopButton1
+  rotate: false
+  xy: 2, 2
+  size: 970, 75
+  orig: 970, 75
+  offset: 0, 0
+  index: -1
+welcomeTopButton2
+  rotate: false
+  xy: 974, 2
+  size: 970, 75
+  orig: 970, 75
+  offset: 0, 0
+  index: -1

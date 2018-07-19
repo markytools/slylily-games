@@ -1,0 +1,69 @@
+
+slots.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+bottom
+  rotate: false
+  xy: 2, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+bottomLeft
+  rotate: false
+  xy: 2, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+bottomRight
+  rotate: false
+  xy: 220, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 2, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+middle
+  rotate: false
+  xy: 220, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 438, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 2, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+topLeft
+  rotate: false
+  xy: 220, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+topRight
+  rotate: false
+  xy: 438, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1

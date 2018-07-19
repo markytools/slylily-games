@@ -1,0 +1,132 @@
+
+lights.png
+size: 1024,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+bottom1
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+bottom2
+  rotate: false
+  xy: 58, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+bottomLeft1
+  rotate: false
+  xy: 114, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+bottomLeft2
+  rotate: false
+  xy: 170, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+bottomRight1
+  rotate: false
+  xy: 226, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+bottomRight2
+  rotate: false
+  xy: 282, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+left1
+  rotate: false
+  xy: 338, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+left2
+  rotate: false
+  xy: 394, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+right1
+  rotate: false
+  xy: 450, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+right2
+  rotate: false
+  xy: 506, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+slotLight1
+  rotate: false
+  xy: 562, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+slotLight2
+  rotate: false
+  xy: 618, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+top1
+  rotate: false
+  xy: 674, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+top2
+  rotate: false
+  xy: 730, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+topLeft1
+  rotate: false
+  xy: 786, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+topLeft2
+  rotate: false
+  xy: 842, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+topRight1
+  rotate: false
+  xy: 898, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+topRight2
+  rotate: false
+  xy: 954, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

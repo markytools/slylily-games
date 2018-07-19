@@ -1,0 +1,228 @@
+
+coinFigures.png
+size: 256,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+halfCoins/bronzeBottomHalf10A
+  rotate: false
+  xy: 2, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf1A
+  rotate: false
+  xy: 2, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf5A
+  rotate: false
+  xy: 40, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf10A
+  rotate: false
+  xy: 2, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf1A
+  rotate: false
+  xy: 40, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf5A
+  rotate: false
+  xy: 78, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf10A
+  rotate: false
+  xy: 40, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf1A
+  rotate: false
+  xy: 78, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf5A
+  rotate: false
+  xy: 116, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf10A
+  rotate: false
+  xy: 78, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf1A
+  rotate: false
+  xy: 116, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf5A
+  rotate: false
+  xy: 154, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf10A
+  rotate: false
+  xy: 116, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf1A
+  rotate: false
+  xy: 154, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf5A
+  rotate: false
+  xy: 192, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf10A
+  rotate: false
+  xy: 154, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf1A
+  rotate: false
+  xy: 192, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf5A
+  rotate: false
+  xy: 192, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+
+coinFigures2.png
+size: 128,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+thirdCoins/10A
+  rotate: false
+  xy: 2, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+thirdCoins/1A
+  rotate: false
+  xy: 40, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+thirdCoins/5A
+  rotate: false
+  xy: 78, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+
+coinFigures3.png
+size: 128,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wholeCoins/bronze10A
+  rotate: false
+  xy: 2, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze1A
+  rotate: false
+  xy: 2, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze5A
+  rotate: false
+  xy: 40, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+wholeCoins/gold10A
+  rotate: false
+  xy: 2, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+wholeCoins/gold1A
+  rotate: false
+  xy: 40, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+wholeCoins/gold5A
+  rotate: false
+  xy: 78, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+wholeCoins/silver10A
+  rotate: false
+  xy: 40, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+wholeCoins/silver1A
+  rotate: false
+  xy: 78, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+wholeCoins/silver5A
+  rotate: false
+  xy: 78, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

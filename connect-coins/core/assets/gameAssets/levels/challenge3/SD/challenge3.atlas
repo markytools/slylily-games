@@ -1,0 +1,62 @@
+
+challenge3.png
+size: 512,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 58, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 114, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 170, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 226, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 282, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 338, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 394, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

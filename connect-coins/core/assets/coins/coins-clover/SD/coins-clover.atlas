@@ -1,0 +1,438 @@
+
+coins-clover.png
+size: 2048,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+halfCoins/bronzeBottomHalf10A
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf10B
+  rotate: false
+  xy: 58, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf1A
+  rotate: false
+  xy: 114, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf1B
+  rotate: false
+  xy: 170, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf5A
+  rotate: false
+  xy: 226, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf5B
+  rotate: false
+  xy: 282, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf10A
+  rotate: false
+  xy: 338, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf10B
+  rotate: false
+  xy: 394, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf1A
+  rotate: false
+  xy: 450, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf1B
+  rotate: false
+  xy: 506, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf5A
+  rotate: false
+  xy: 562, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf5B
+  rotate: false
+  xy: 618, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf10A
+  rotate: false
+  xy: 674, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf10B
+  rotate: false
+  xy: 730, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf1A
+  rotate: false
+  xy: 786, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf1B
+  rotate: false
+  xy: 842, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf5A
+  rotate: false
+  xy: 898, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf5B
+  rotate: false
+  xy: 954, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf10A
+  rotate: false
+  xy: 1010, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf10B
+  rotate: false
+  xy: 1066, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf1A
+  rotate: false
+  xy: 1122, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf1B
+  rotate: false
+  xy: 1178, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf5A
+  rotate: false
+  xy: 1234, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf5B
+  rotate: false
+  xy: 1290, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf10A
+  rotate: false
+  xy: 1346, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf10B
+  rotate: false
+  xy: 1402, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf1A
+  rotate: false
+  xy: 1458, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf1B
+  rotate: false
+  xy: 1514, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf5A
+  rotate: false
+  xy: 1570, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf5B
+  rotate: false
+  xy: 1626, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf10A
+  rotate: false
+  xy: 1682, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf10B
+  rotate: false
+  xy: 1738, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf1A
+  rotate: false
+  xy: 1794, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf1B
+  rotate: false
+  xy: 1850, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf5A
+  rotate: false
+  xy: 1906, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf5B
+  rotate: false
+  xy: 1962, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+
+coins-clover2.png
+size: 512,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+thirdCoins/10A
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+thirdCoins/10B
+  rotate: false
+  xy: 58, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+thirdCoins/1A
+  rotate: false
+  xy: 114, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+thirdCoins/1B
+  rotate: false
+  xy: 170, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+thirdCoins/5A
+  rotate: false
+  xy: 226, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+thirdCoins/5B
+  rotate: false
+  xy: 282, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+
+coins-clover3.png
+size: 1024,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wholeCoins/bronze10A
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze10B
+  rotate: false
+  xy: 58, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze1A
+  rotate: false
+  xy: 114, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze1B
+  rotate: false
+  xy: 170, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze5A
+  rotate: false
+  xy: 226, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze5B
+  rotate: false
+  xy: 282, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/gold10A
+  rotate: false
+  xy: 338, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/gold10B
+  rotate: false
+  xy: 394, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/gold1A
+  rotate: false
+  xy: 450, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/gold1B
+  rotate: false
+  xy: 506, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/gold5A
+  rotate: false
+  xy: 562, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/gold5B
+  rotate: false
+  xy: 618, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/silver10A
+  rotate: false
+  xy: 674, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/silver10B
+  rotate: false
+  xy: 730, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/silver1A
+  rotate: false
+  xy: 786, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/silver1B
+  rotate: false
+  xy: 842, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/silver5A
+  rotate: false
+  xy: 898, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wholeCoins/silver5B
+  rotate: false
+  xy: 954, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

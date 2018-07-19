@@ -1,0 +1,257 @@
+
+matchmake.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+accept1
+  rotate: false
+  xy: 3490, 1882
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+accept2
+  rotate: false
+  xy: 1084, 274
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+accept3
+  rotate: false
+  xy: 1886, 976
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+boost
+  rotate: false
+  xy: 1084, 1624
+  size: 800, 400
+  orig: 800, 400
+  offset: 0, 0
+  index: -1
+boostD
+  rotate: false
+  xy: 1084, 1222
+  size: 800, 400
+  orig: 800, 400
+  offset: 0, 0
+  index: -1
+cancel1
+  rotate: false
+  xy: 2688, 1378
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+cancel2
+  rotate: false
+  xy: 3490, 1738
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+cancel3
+  rotate: false
+  xy: 1084, 130
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+chooseModeBG
+  rotate: false
+  xy: 2, 104
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+decline1
+  rotate: false
+  xy: 1886, 832
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+decline2
+  rotate: false
+  xy: 2688, 1234
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+decline3
+  rotate: false
+  xy: 1886, 688
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+leftArrow
+  rotate: false
+  xy: 2379, 918
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+leftArrow2
+  rotate: false
+  xy: 3181, 1320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 1886, 1624
+  size: 800, 400
+  orig: 800, 400
+  offset: 0, 0
+  index: -1
+normalD
+  rotate: false
+  xy: 1084, 820
+  size: 800, 400
+  orig: 800, 400
+  offset: 0, 0
+  index: -1
+random
+  rotate: false
+  xy: 1886, 1222
+  size: 800, 400
+  orig: 800, 400
+  offset: 0, 0
+  index: -1
+rightArrow
+  rotate: false
+  xy: 1577, 216
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+rightArrow2
+  rotate: false
+  xy: 2379, 716
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+searching0
+  rotate: false
+  xy: 2, 2
+  size: 750, 100
+  orig: 750, 100
+  offset: 0, 0
+  index: -1
+searching1
+  rotate: false
+  xy: 1886, 1120
+  size: 750, 100
+  orig: 750, 100
+  offset: 0, 0
+  index: -1
+searching2
+  rotate: false
+  xy: 2688, 1522
+  size: 750, 100
+  orig: 750, 100
+  offset: 0, 0
+  index: -1
+stop1
+  rotate: false
+  xy: 1886, 544
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+stop2
+  rotate: false
+  xy: 1886, 400
+  size: 491, 142
+  orig: 491, 142
+  offset: 0, 0
+  index: -1
+ultraBoost
+  rotate: false
+  xy: 2688, 1624
+  size: 800, 400
+  orig: 800, 400
+  offset: 0, 0
+  index: -1
+ultraBoostD
+  rotate: false
+  xy: 1084, 418
+  size: 800, 400
+  orig: 800, 400
+  offset: 0, 0
+  index: -1
+
+matchmake2.png
+size: 2048,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+startButton/start1
+  rotate: false
+  xy: 2, 286
+  size: 490, 140
+  orig: 490, 140
+  offset: 0, 0
+  index: -1
+startButton/start2
+  rotate: false
+  xy: 2, 144
+  size: 490, 140
+  orig: 490, 140
+  offset: 0, 0
+  index: -1
+startButton/start3
+  rotate: false
+  xy: 494, 286
+  size: 490, 140
+  orig: 490, 140
+  offset: 0, 0
+  index: -1
+startButton/start4
+  rotate: false
+  xy: 2, 2
+  size: 490, 140
+  orig: 490, 140
+  offset: 0, 0
+  index: -1
+startButton/start5
+  rotate: false
+  xy: 494, 144
+  size: 490, 140
+  orig: 490, 140
+  offset: 0, 0
+  index: -1
+startButton/start6
+  rotate: false
+  xy: 986, 286
+  size: 490, 140
+  orig: 490, 140
+  offset: 0, 0
+  index: -1
+startButton/start7
+  rotate: false
+  xy: 494, 2
+  size: 490, 140
+  orig: 490, 140
+  offset: 0, 0
+  index: -1
+startButton/startC
+  rotate: false
+  xy: 986, 144
+  size: 490, 140
+  orig: 490, 140
+  offset: 0, 0
+  index: -1
+startButton/startD
+  rotate: false
+  xy: 1478, 286
+  size: 490, 140
+  orig: 490, 140
+  offset: 0, 0
+  index: -1

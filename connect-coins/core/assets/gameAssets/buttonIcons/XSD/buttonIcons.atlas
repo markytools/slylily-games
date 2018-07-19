@@ -1,0 +1,251 @@
+
+buttonIcons.png
+size: 2048,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+achievements
+  rotate: false
+  xy: 2, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+awards
+  rotate: false
+  xy: 48, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 94, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+befriend
+  rotate: false
+  xy: 140, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+cc
+  rotate: false
+  xy: 186, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+challenge
+  rotate: false
+  xy: 232, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+challenges
+  rotate: false
+  xy: 278, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+comboList
+  rotate: false
+  xy: 324, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+customMatch
+  rotate: false
+  xy: 370, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+facebook
+  rotate: false
+  xy: 416, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+findAMatch
+  rotate: false
+  xy: 462, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 508, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+highScores
+  rotate: false
+  xy: 554, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+howToPlay
+  rotate: false
+  xy: 600, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+moreApps
+  rotate: false
+  xy: 646, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+multiplayer
+  rotate: false
+  xy: 692, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+nextPuzzle
+  rotate: false
+  xy: 738, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+no
+  rotate: false
+  xy: 784, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+options
+  rotate: false
+  xy: 830, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 876, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+playAgain
+  rotate: false
+  xy: 922, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+playerInfoIcon
+  rotate: false
+  xy: 968, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+players
+  rotate: false
+  xy: 1014, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+quit
+  rotate: false
+  xy: 1060, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+rateGame
+  rotate: false
+  xy: 1106, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+rematch
+  rotate: false
+  xy: 1152, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 1198, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+share
+  rotate: false
+  xy: 1244, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+statistics
+  rotate: false
+  xy: 1290, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+store
+  rotate: false
+  xy: 1336, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+submit
+  rotate: false
+  xy: 1382, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+topPlayers
+  rotate: false
+  xy: 1428, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+twitter
+  rotate: false
+  xy: 1474, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+undo
+  rotate: false
+  xy: 1520, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+yes
+  rotate: false
+  xy: 1566, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

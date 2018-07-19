@@ -1,0 +1,153 @@
+
+achievementIcons.png
+size: 2048,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+achievementFrame
+  rotate: false
+  xy: 329, 8
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1
+achievementFrame2
+  rotate: false
+  xy: 811, 232
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1
+banner
+  rotate: false
+  xy: 1080, 362
+  size: 285, 62
+  orig: 285, 62
+  offset: 0, 0
+  index: -1
+bar1
+  rotate: false
+  xy: 1627, 477
+  size: 256, 10
+  orig: 256, 10
+  offset: 0, 0
+  index: -1
+bar2
+  rotate: false
+  xy: 1627, 489
+  size: 270, 10
+  orig: 270, 10
+  offset: 0, 0
+  index: -1
+bigFlush
+  rotate: false
+  xy: 598, 142
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+bronzeCollector
+  rotate: false
+  xy: 598, 7
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+connectCoinStats
+  rotate: false
+  xy: 329, 277
+  size: 480, 222
+  orig: 480, 222
+  offset: 0, 0
+  index: -1
+dataLayout
+  rotate: false
+  xy: 2, 2
+  size: 325, 497
+  orig: 325, 497
+  offset: 0, 0
+  index: -1
+flush
+  rotate: false
+  xy: 1080, 162
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+frugal
+  rotate: false
+  xy: 1215, 162
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+goldCollector
+  rotate: false
+  xy: 733, 97
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+lucky
+  rotate: false
+  xy: 868, 97
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+ok1
+  rotate: false
+  xy: 1407, 436
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+ok2
+  rotate: false
+  xy: 1080, 297
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+oneShotLucky
+  rotate: false
+  xy: 1627, 342
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+silverCollector
+  rotate: false
+  xy: 1762, 342
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+thrifty
+  rotate: false
+  xy: 1899, 366
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1080, 426
+  size: 325, 73
+  orig: 325, 73
+  offset: 0, 0
+  index: -1
+ultraLucky
+  rotate: false
+  xy: 1897, 231
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+wealthy
+  rotate: false
+  xy: 1407, 301
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1

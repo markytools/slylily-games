@@ -1,0 +1,55 @@
+
+options.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+languageBG
+  rotate: false
+  xy: 2, 2
+  size: 533, 80
+  orig: 533, 80
+  offset: 0, 0
+  index: -1
+languageBGSelected
+  rotate: false
+  xy: 661, 367
+  size: 533, 80
+  orig: 533, 80
+  offset: 0, 0
+  index: -1
+languageDropBG
+  rotate: false
+  xy: 661, 449
+  size: 533, 560
+  orig: 533, 560
+  offset: 0, 0
+  index: -1
+options
+  rotate: false
+  xy: 1196, 676
+  size: 720, 333
+  orig: 720, 333
+  offset: 0, 0
+  index: -1
+optionsBG
+  rotate: false
+  xy: 2, 84
+  size: 657, 925
+  orig: 657, 925
+  offset: 0, 0
+  index: -1
+toggleButton1
+  rotate: false
+  xy: 1196, 583
+  size: 444, 91
+  orig: 444, 91
+  offset: 0, 0
+  index: -1
+toggleButton2
+  rotate: false
+  xy: 661, 274
+  size: 444, 91
+  orig: 444, 91
+  offset: 0, 0
+  index: -1

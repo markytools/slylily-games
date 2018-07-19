@@ -1,0 +1,223 @@
+
+starCoin.png
+size: 4096,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 118, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1162, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1278, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1394, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1510, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1626, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1742, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1858, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1974, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 2090, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 2206, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 234, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 2322, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 2438, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 2554, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 2670, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 2786, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 2902, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 3018, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 3134, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 3250, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 3366, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 350, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 3482, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 466, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 582, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 698, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 814, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 930, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1046, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1

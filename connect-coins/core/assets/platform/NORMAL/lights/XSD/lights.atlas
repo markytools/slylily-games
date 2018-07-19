@@ -1,0 +1,132 @@
+
+lights.png
+size: 2048,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+bottom1
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+bottom2
+  rotate: false
+  xy: 100, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+bottomLeft1
+  rotate: false
+  xy: 198, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+bottomLeft2
+  rotate: false
+  xy: 296, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+bottomRight1
+  rotate: false
+  xy: 394, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+bottomRight2
+  rotate: false
+  xy: 492, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+left1
+  rotate: false
+  xy: 590, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+left2
+  rotate: false
+  xy: 688, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+right1
+  rotate: false
+  xy: 786, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+right2
+  rotate: false
+  xy: 884, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+slotLight1
+  rotate: false
+  xy: 982, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+slotLight2
+  rotate: false
+  xy: 1080, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+top1
+  rotate: false
+  xy: 1178, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+top2
+  rotate: false
+  xy: 1276, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+topLeft1
+  rotate: false
+  xy: 1374, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+topLeft2
+  rotate: false
+  xy: 1472, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+topRight1
+  rotate: false
+  xy: 1570, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+topRight2
+  rotate: false
+  xy: 1668, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

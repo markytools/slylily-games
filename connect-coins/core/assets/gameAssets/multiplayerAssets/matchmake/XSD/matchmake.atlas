@@ -1,0 +1,257 @@
+
+matchmake.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+accept1
+  rotate: false
+  xy: 1558, 904
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+accept2
+  rotate: false
+  xy: 484, 184
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+accept3
+  rotate: false
+  xy: 2, 2
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+boost
+  rotate: false
+  xy: 484, 789
+  size: 356, 178
+  orig: 356, 178
+  offset: 0, 0
+  index: -1
+boostD
+  rotate: false
+  xy: 484, 609
+  size: 356, 178
+  orig: 356, 178
+  offset: 0, 0
+  index: -1
+cancel1
+  rotate: false
+  xy: 842, 498
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+cancel2
+  rotate: false
+  xy: 1200, 678
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+cancel3
+  rotate: false
+  xy: 1558, 839
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+chooseModeBG
+  rotate: false
+  xy: 2, 113
+  size: 480, 854
+  orig: 480, 854
+  offset: 0, 0
+  index: -1
+decline1
+  rotate: false
+  xy: 1778, 904
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+decline2
+  rotate: false
+  xy: 484, 119
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+decline3
+  rotate: false
+  xy: 842, 433
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+leftArrow
+  rotate: false
+  xy: 704, 158
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+leftArrow2
+  rotate: false
+  xy: 1062, 472
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 842, 789
+  size: 356, 178
+  orig: 356, 178
+  offset: 0, 0
+  index: -1
+normalD
+  rotate: false
+  xy: 484, 429
+  size: 356, 178
+  orig: 356, 178
+  offset: 0, 0
+  index: -1
+random
+  rotate: false
+  xy: 842, 609
+  size: 356, 178
+  orig: 356, 178
+  offset: 0, 0
+  index: -1
+rightArrow
+  rotate: false
+  xy: 1420, 652
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+rightArrow2
+  rotate: false
+  xy: 842, 342
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+searching0
+  rotate: false
+  xy: 2, 67
+  size: 334, 44
+  orig: 334, 44
+  offset: 0, 0
+  index: -1
+searching1
+  rotate: false
+  xy: 842, 563
+  size: 334, 44
+  orig: 334, 44
+  offset: 0, 0
+  index: -1
+searching2
+  rotate: false
+  xy: 1200, 743
+  size: 334, 44
+  orig: 334, 44
+  offset: 0, 0
+  index: -1
+stop1
+  rotate: false
+  xy: 1200, 613
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+stop2
+  rotate: false
+  xy: 1778, 839
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1
+ultraBoost
+  rotate: false
+  xy: 1200, 789
+  size: 356, 178
+  orig: 356, 178
+  offset: 0, 0
+  index: -1
+ultraBoostD
+  rotate: false
+  xy: 484, 249
+  size: 356, 178
+  orig: 356, 178
+  offset: 0, 0
+  index: -1
+
+matchmake2.png
+size: 2048,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+startButton/start1
+  rotate: false
+  xy: 2, 2
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+startButton/start2
+  rotate: false
+  xy: 222, 2
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+startButton/start3
+  rotate: false
+  xy: 442, 2
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+startButton/start4
+  rotate: false
+  xy: 662, 2
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+startButton/start5
+  rotate: false
+  xy: 882, 2
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+startButton/start6
+  rotate: false
+  xy: 1102, 2
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+startButton/start7
+  rotate: false
+  xy: 1322, 2
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+startButton/startC
+  rotate: false
+  xy: 1542, 2
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+startButton/startD
+  rotate: false
+  xy: 1762, 2
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1

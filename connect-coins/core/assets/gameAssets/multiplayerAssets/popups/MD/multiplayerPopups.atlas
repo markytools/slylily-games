@@ -1,0 +1,48 @@
+
+multiplayerPopups.png
+size: 4096,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+bigFlush
+  rotate: false
+  xy: 1667, 3
+  size: 290, 49
+  orig: 290, 49
+  offset: 0, 0
+  index: -1
+fiveOfAKind
+  rotate: false
+  xy: 894, 3
+  size: 411, 49
+  orig: 411, 49
+  offset: 0, 0
+  index: -1
+flush
+  rotate: false
+  xy: 1959, 4
+  size: 175, 48
+  orig: 175, 48
+  offset: 0, 0
+  index: -1
+fourOfAKind
+  rotate: false
+  xy: 467, 2
+  size: 425, 50
+  orig: 425, 50
+  offset: 0, 0
+  index: -1
+smallFlush
+  rotate: false
+  xy: 1307, 3
+  size: 358, 49
+  orig: 358, 49
+  offset: 0, 0
+  index: -1
+threeOfAKind
+  rotate: false
+  xy: 2, 3
+  size: 463, 49
+  orig: 463, 49
+  offset: 0, 0
+  index: -1

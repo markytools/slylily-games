@@ -1,0 +1,456 @@
+
+coins-BRL.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+halfCoins/bronzeBottomHalf10A
+  rotate: false
+  xy: 2, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf10B
+  rotate: false
+  xy: 2, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf1A
+  rotate: false
+  xy: 220, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf1B
+  rotate: false
+  xy: 2, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf5A
+  rotate: false
+  xy: 220, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeBottomHalf5B
+  rotate: false
+  xy: 438, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf10A
+  rotate: false
+  xy: 2, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf10B
+  rotate: false
+  xy: 220, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf1A
+  rotate: false
+  xy: 438, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf1B
+  rotate: false
+  xy: 656, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf5A
+  rotate: false
+  xy: 220, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/bronzeTopHalf5B
+  rotate: false
+  xy: 438, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf10A
+  rotate: false
+  xy: 656, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf10B
+  rotate: false
+  xy: 438, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf1A
+  rotate: false
+  xy: 656, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf1B
+  rotate: false
+  xy: 656, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+
+coins-BRL2.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+halfCoins/goldBottomHalf5A
+  rotate: false
+  xy: 2, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldBottomHalf5B
+  rotate: false
+  xy: 2, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf10A
+  rotate: false
+  xy: 220, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf10B
+  rotate: false
+  xy: 2, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf1A
+  rotate: false
+  xy: 220, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf1B
+  rotate: false
+  xy: 438, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf5A
+  rotate: false
+  xy: 2, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/goldTopHalf5B
+  rotate: false
+  xy: 220, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf10A
+  rotate: false
+  xy: 438, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf10B
+  rotate: false
+  xy: 656, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf1A
+  rotate: false
+  xy: 220, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf1B
+  rotate: false
+  xy: 438, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf5A
+  rotate: false
+  xy: 656, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverBottomHalf5B
+  rotate: false
+  xy: 438, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf10A
+  rotate: false
+  xy: 656, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf10B
+  rotate: false
+  xy: 656, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+
+coins-BRL3.png
+size: 1024,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+halfCoins/silverTopHalf1A
+  rotate: false
+  xy: 2, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf1B
+  rotate: false
+  xy: 220, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf5A
+  rotate: false
+  xy: 438, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+halfCoins/silverTopHalf5B
+  rotate: false
+  xy: 656, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+
+coins-BRL4.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+thirdCoins/10A
+  rotate: false
+  xy: 2, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+thirdCoins/10B
+  rotate: false
+  xy: 2, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+thirdCoins/1A
+  rotate: false
+  xy: 220, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+thirdCoins/1B
+  rotate: false
+  xy: 220, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+thirdCoins/5A
+  rotate: false
+  xy: 438, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+thirdCoins/5B
+  rotate: false
+  xy: 438, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+
+coins-BRL5.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wholeCoins/bronze10A
+  rotate: false
+  xy: 2, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze10B
+  rotate: false
+  xy: 2, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze1A
+  rotate: false
+  xy: 220, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze1B
+  rotate: false
+  xy: 2, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze5A
+  rotate: false
+  xy: 220, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/bronze5B
+  rotate: false
+  xy: 438, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/gold10A
+  rotate: false
+  xy: 2, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/gold10B
+  rotate: false
+  xy: 220, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/gold1A
+  rotate: false
+  xy: 438, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/gold1B
+  rotate: false
+  xy: 656, 656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/gold5A
+  rotate: false
+  xy: 220, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/gold5B
+  rotate: false
+  xy: 438, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/silver10A
+  rotate: false
+  xy: 656, 438
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/silver10B
+  rotate: false
+  xy: 438, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/silver1A
+  rotate: false
+  xy: 656, 220
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/silver1B
+  rotate: false
+  xy: 656, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+
+coins-BRL6.png
+size: 512,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wholeCoins/silver5A
+  rotate: false
+  xy: 2, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wholeCoins/silver5B
+  rotate: false
+  xy: 220, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1

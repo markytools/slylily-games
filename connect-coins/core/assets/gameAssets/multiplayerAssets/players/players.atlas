@@ -1,0 +1,208 @@
+
+players.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+addFriend1
+  rotate: false
+  xy: 1770, 1158
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+addFriend2
+  rotate: false
+  xy: 1536, 768
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+challengeOpponent1
+  rotate: false
+  xy: 1084, 460
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+challengeOpponent2
+  rotate: false
+  xy: 1536, 616
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+friendsB1
+  rotate: false
+  xy: 1084, 843
+  size: 450, 75
+  orig: 450, 75
+  offset: 0, 0
+  index: -1
+friendsB2
+  rotate: false
+  xy: 1084, 766
+  size: 450, 75
+  orig: 450, 75
+  offset: 0, 0
+  index: -1
+message1
+  rotate: false
+  xy: 1084, 308
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+message2
+  rotate: false
+  xy: 1236, 460
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+messageChatTitle
+  rotate: false
+  xy: 2, 2
+  size: 1080, 100
+  orig: 1080, 100
+  offset: 0, 0
+  index: -1
+msgChatTextField
+  rotate: false
+  xy: 1084, 920
+  size: 667, 100
+  orig: 667, 100
+  offset: 0, 0
+  index: -1
+msgLogo
+  rotate: false
+  xy: 1770, 1065
+  size: 133, 91
+  orig: 133, 91
+  offset: 0, 0
+  index: -1
+offline
+  rotate: false
+  xy: 1388, 358
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+online
+  rotate: false
+  xy: 1388, 256
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+playerScreenBG
+  rotate: false
+  xy: 2, 104
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+refresh1
+  rotate: false
+  xy: 1084, 156
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+refresh2
+  rotate: false
+  xy: 1236, 308
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+search1
+  rotate: false
+  xy: 1084, 1166
+  size: 684, 142
+  orig: 684, 142
+  offset: 0, 0
+  index: -1
+search2
+  rotate: false
+  xy: 1084, 1022
+  size: 684, 142
+  orig: 684, 142
+  offset: 0, 0
+  index: -1
+searchAgain1
+  rotate: false
+  xy: 1084, 4
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+searchAgain2
+  rotate: false
+  xy: 1236, 156
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+searchPlayerB1
+  rotate: false
+  xy: 1084, 689
+  size: 450, 75
+  orig: 450, 75
+  offset: 0, 0
+  index: -1
+searchPlayerB2
+  rotate: false
+  xy: 1084, 612
+  size: 450, 75
+  orig: 450, 75
+  offset: 0, 0
+  index: -1
+textAreaBody
+  rotate: false
+  xy: 1084, 1668
+  size: 882, 356
+  orig: 882, 356
+  offset: 0, 0
+  index: -1
+textAreaCorner
+  rotate: false
+  xy: 1084, 1310
+  size: 882, 356
+  orig: 882, 356
+  offset: 0, 0
+  index: -1
+unfriend1
+  rotate: false
+  xy: 1236, 4
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+unfriend2
+  rotate: false
+  xy: 1388, 460
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+
+players2.png
+size: 2048,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+myConnectCoinsProfB1
+  rotate: false
+  xy: 2, 2
+  size: 970, 75
+  orig: 970, 75
+  offset: 0, 0
+  index: -1
+myConnectCoinsProfB2
+  rotate: false
+  xy: 974, 2
+  size: 970, 75
+  orig: 970, 75
+  offset: 0, 0
+  index: -1

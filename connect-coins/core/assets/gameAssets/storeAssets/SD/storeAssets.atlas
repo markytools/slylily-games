@@ -1,0 +1,186 @@
+
+storeAssets.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+connectCoinStore
+  rotate: false
+  xy: 546, 357
+  size: 270, 125
+  orig: 270, 125
+  offset: 0, 0
+  index: -1
+descFrame
+  rotate: false
+  xy: 2, 2
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+itemsOuterFrame
+  rotate: false
+  xy: 274, 2
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+
+storeAssets2.png
+size: 128,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+itemImages/bagOfCC
+  rotate: false
+  xy: 2, 177
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/challenges2
+  rotate: false
+  xy: 2, 142
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/challenges3
+  rotate: false
+  xy: 37, 177
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/challenges4
+  rotate: false
+  xy: 2, 107
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/challenges5
+  rotate: false
+  xy: 37, 142
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/chestOfCC
+  rotate: false
+  xy: 72, 177
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/firedUp
+  rotate: false
+  xy: 2, 72
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/handfulOfCC
+  rotate: false
+  xy: 37, 107
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/luckyHalf
+  rotate: false
+  xy: 72, 142
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/luckyThird
+  rotate: false
+  xy: 2, 37
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/noAds
+  rotate: false
+  xy: 37, 72
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/pouchOfCC
+  rotate: false
+  xy: 72, 107
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/sackOfCC
+  rotate: false
+  xy: 2, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/shineAllTheWay
+  rotate: false
+  xy: 37, 37
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+itemImages/superBooster
+  rotate: false
+  xy: 72, 72
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+
+storeAssets3.png
+size: 512,32
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+upperButtons/boosters1
+  rotate: false
+  xy: 2, 2
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+upperButtons/boosters2
+  rotate: false
+  xy: 79, 2
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+upperButtons/textures1
+  rotate: false
+  xy: 156, 2
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+upperButtons/textures2
+  rotate: false
+  xy: 233, 2
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+upperButtons/unlockables1
+  rotate: false
+  xy: 310, 2
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+upperButtons/unlockables2
+  rotate: false
+  xy: 387, 2
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1

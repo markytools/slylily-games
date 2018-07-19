@@ -1,0 +1,12 @@
+package com.polyNgonConstants.game;
+
+public enum PolyNGonsGameSelection {
+	NONE,
+	TUTORIAL,
+	PUZZLE_COLLECTION,
+	PUZZLE_CHALLENGE,
+	POLYNGONS,
+	SETTINGS,
+	TESTING_DEBUGING,
+	AUTOMATIC_GENERATION
+}

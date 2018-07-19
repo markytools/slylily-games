@@ -1,0 +1,27 @@
+
+readyNum.png
+size: 1024,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 270, 63
+  orig: 270, 63
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 274, 2
+  size: 270, 63
+  orig: 270, 63
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 546, 2
+  size: 270, 63
+  orig: 270, 63
+  offset: 0, 0
+  index: -1

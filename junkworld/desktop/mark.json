@@ -1,0 +1,135 @@
+{
+profile: mark.json
+level: 1
+junkCoins: 0
+highestScoreEver: 0
+currentXP: 0
+currentJob: none
+triesLeft: 3
+fee: 0
+currentRound: 0
+jobHighestPerfectCombo: 0
+jobTotalPerfectDump: 0
+jobTotalDump: 0
+jobTotalUnofficialDump: 0
+jobTotalNotDumped: 0
+survivalMinute: 0
+survivalSeconds: 0
+jobRoundRatings: [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+jobChangeTimer: [
+	13/06/2018 00:34:21
+	13/06/2018 00:34:21
+	13/06/2018 00:34:21
+	13/06/2018 00:34:21
+	13/06/2018 00:34:21
+	13/06/2018 00:34:21
+	13/06/2018 00:34:21
+	13/06/2018 00:34:21
+	13/06/2018 00:34:21
+]
+hasJob: [
+	false
+	true
+	false
+	true
+	false
+	false
+	true
+	false
+	false
+]
+gameMode: [ 1, 1, 2, 1, 1, 2, 2, 2, 2 ]
+timer: [ 75, 60, 60, 75, 75, 60, 60, 75, 60 ]
+garbageGoal: [ 6, 5, 6, 6, 6, 7, 6, 7, 7 ]
+garbageAmount: [ 3, 3, 3, 3, 3, 3, 3, 3, 3 ]
+rounds: [ 2, 2, 2, 2, 1, 2, 2, 2, 1 ]
+spawnTime: [
+	[ 4.611089, 4.7117786, 4.762076, 4.8511524, 4.945061 ]
+	[ 4.611089, 4.7117786, 4.762076, 4.8511524, 4.945061 ]
+	[ 4.611089, 4.7117786, 4.762076, 4.8511524, 4.945061 ]
+	[ 4.611089, 4.7117786, 4.762076, 4.8511524, 4.945061 ]
+	[ 4.611089, 4.7117786, 4.762076, 4.8511524, 4.945061 ]
+	[ 4.611089, 4.7117786, 4.762076, 4.8511524, 4.945061 ]
+	[ 4.611089, 4.7117786, 4.762076, 4.8511524, 4.945061 ]
+	[ 4.611089, 4.7117786, 4.762076, 4.8511524, 4.945061 ]
+	[ 4.611089, 4.7117786, 4.762076, 4.8511524, 4.945061 ]
+]
+kitchenCount: 0
+basementCount: 0
+garageCount: 0
+backyardCount: 0
+sidewalkCount: 0
+factoryCount: 0
+highwayCount: 0
+parkCount: 0
+sewerCount: 0
+acornAlbum: false
+appleAlbum: false
+bananaPeelAlbum: false
+branchAlbum: false
+deadMouseAlbum: false
+eggShellAlbum: false
+featherAlbum: false
+fishBoneAlbum: false
+flowerAlbum: false
+grassAlbum: false
+hairAlbum: false
+hayAlbum: false
+leavesAlbum: false
+manureAlbum: false
+rootsAlbum: false
+bottleAlbum: false
+canAlbum: false
+cardboardAlbum: false
+cerealBoxAlbum: false
+dirtyShirtAlbum: false
+envelopeAlbum: false
+funnelAlbum: false
+hangerAlbum: false
+newspaperAlbum: false
+paperAlbum: false
+pillBottleAlbum: false
+plasticBagAlbum: false
+tyreAlbum: false
+vaseAlbum: false
+waffleIronAlbum: false
+aerosolCanAlbum: false
+brokenBulbAlbum: false
+brokenGlassAlbum: false
+chewingGumAlbum: false
+cigaretteAlbum: false
+deadBatteryAlbum: false
+dirtyDiaperAlbum: false
+insecticideSprayAlbum: false
+leftoverCakeAlbum: false
+leftoverChickenAlbum: false
+nailAlbum: false
+paintCanAlbum: false
+syringeAlbum: false
+tornPaperAlbum: false
+usedMotorOilAlbum: false
+timeAttack: true
+dumpingJob: false
+survival: false
+kitchen: false
+basement: false
+garage: false
+backyard: false
+sidewalk: false
+factory: false
+highway: false
+park: false
+sewer: false
+diff2: false
+diff3: false
+diff4: false
+diff5: false
+diff6: false
+diff7: false
+diff8: false
+diff9: false
+diff10: false
+defaultGameMode: 1
+defaultTheme: 0
+defaultDiff: 0
+}
